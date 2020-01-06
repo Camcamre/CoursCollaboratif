@@ -1,5 +1,5 @@
 # CoursCollaboratifbon
 
--choix 
--choix 1
--choix 2
+- choix 
+- choix 1
+- choix 2
